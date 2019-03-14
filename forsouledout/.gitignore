@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+myvenv
+mysql.connector.django
+/static
+.DS_Store
